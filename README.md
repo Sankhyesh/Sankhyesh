@@ -4,7 +4,7 @@
 
 ## Hi there! 👋
 
-I'm Sankhyesh, a passionate software developer with over 2 years of experience in AI/ML/NLP. Currently, I'm pursuing my MTech in Computer Science with a specialization in AI from IIIT Lucknow.
+I'm Sankhyesh, a passionate software developer with over 2 years of experience in AI/ML/NLP.
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sankhyesh-singh-thakur-b2160316b/)
