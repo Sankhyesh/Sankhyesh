@@ -55,7 +55,7 @@ I'm Sankhyesh, a passionate software developer with over 2 years of experience i
 
 ### 🏆 Achievements:
 - Qualified GATE exam in consecutive years 2020, 2021.
-- Solved 700+ problems on various coding platforms (Expert on CodeForces with max 1724+ rating).
+- Solved 700+ problems on various coding platforms
 
 ### 📫 Contact:
 - **Email**: mcs21019@iiitl.ac.in
